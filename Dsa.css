@@ -1,0 +1,26 @@
+hr{
+    
+   background-color: black;
+   
+}
+body{
+    background-color: green;
+    padding: 10px 10px 10px 10px;
+    margin: auto;
+    border: 20px;
+    border-style: solid;
+    border-color: yellow;
+}
+.Part1{
+    font-family: 'Calistoga', cursive;
+    
+}
+.array{
+    border: 2px;
+    border-style: dashed;
+    border-color: aqua;
+}
+.Topics{
+    font-family:  'Calistoga', cursive;
+    color: silver;
+}
